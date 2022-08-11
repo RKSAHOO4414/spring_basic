@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=spring-demo-one/src&lt;com.my.springDemo{FortuneService.java[FortuneService" modifiers="513" timestamp="1657515229538"/>
+<typeInfo handle="=spring-demo-one/src&lt;com.my.springDemo{Coach.java[Coach" modifiers="513" timestamp="1657515378066"/>
+<typeInfo handle="=spring_demo_annotation/src&lt;com.my.springdemo{FortuneService.java[FortuneService" modifiers="513" timestamp="1657530919324"/>
+<typeInfo handle="=spring-security-demo-02-basic-security/C:\/Users\/ranjan.sahoo\/.m2\/repository\/org\/springframework\/security\/spring-security-web\/5.0.2.RELEASE\/spring-security-web-5.0.2.RELEASE.jar&lt;org.springframework.security.web.context(AbstractSecurityWebApplicationInitializer.class[AbstractSecurityWebApplicationInitializer" modifiers="1057" timestamp="1658467325392"/>
+<typeInfo handle="=spring-security-demo-02-basic-security/C:\/Users\/ranjan.sahoo\/.m2\/repository\/org\/springframework\/security\/spring-security-config\/5.0.2.RELEASE\/spring-security-config-5.0.2.RELEASE.jar&lt;org.springframework.security.config.annotation.web.configuration(WebSecurityConfigurerAdapter.class[WebSecurityConfigurerAdapter" modifiers="1057" timestamp="1658467327987"/>
+<typeInfo handle="=spring-rest-demo/C:\/Users\/ranjan.sahoo\/.m2\/repository\/org\/springframework\/spring-webmvc\/5.0.5.RELEASE\/spring-webmvc-5.0.5.RELEASE.jar&lt;org.springframework.web.servlet.support(AbstractAnnotationConfigDispatcherServletInitializer.class[AbstractAnnotationConfigDispatcherServletInitializer" modifiers="1057" timestamp="1658749384963"/>
+<typeInfo handle="=spring-crm-rest/C:\/Program Files\/Java\/jdk1.8.0_05\/jre\/lib\/rt.jar&lt;java.lang(RuntimeException.class[RuntimeException" modifiers="33" timestamp="1655705787826"/>
+</typeInfoHistroy>

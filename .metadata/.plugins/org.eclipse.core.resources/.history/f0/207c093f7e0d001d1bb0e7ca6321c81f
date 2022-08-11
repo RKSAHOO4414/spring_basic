@@ -1,0 +1,9 @@
+package com.luv2code.springboot.demo.mycoolapp1.rest;
+
+public class FunRestController {
+
+	public FunRestController() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

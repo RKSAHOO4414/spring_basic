@@ -1,0 +1,13 @@
+127.0.0.1 - - [19/Jul/2022:09:19:10 +0530] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [19/Jul/2022:09:19:11 +0530] "GET /web-customer-tracker/ HTTP/1.1" 302 -
+127.0.0.1 - - [19/Jul/2022:09:19:13 +0530] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 3887
+127.0.0.1 - - [19/Jul/2022:09:19:13 +0530] "GET /web-customer-tracker/resources/css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [19/Jul/2022:09:19:22 +0530] "GET /web-customer-tracker/customer/showFormForUpdate?customerId=1 HTTP/1.1" 200 1415
+127.0.0.1 - - [19/Jul/2022:09:19:22 +0530] "GET /web-customer-tracker/resources/css/add-customer-style.css HTTP/1.1" 304 -
+127.0.0.1 - - [19/Jul/2022:09:19:40 +0530] "POST /web-customer-tracker/customer/saveCustomer HTTP/1.1" 302 -
+127.0.0.1 - - [19/Jul/2022:09:19:40 +0530] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 3884
+127.0.0.1 - - [19/Jul/2022:09:19:50 +0530] "GET /web-customer-tracker/customer/showFormForAdd HTTP/1.1" 200 1387
+127.0.0.1 - - [19/Jul/2022:09:20:10 +0530] "POST /web-customer-tracker/customer/saveCustomer HTTP/1.1" 302 -
+127.0.0.1 - - [19/Jul/2022:09:20:10 +0530] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 4484
+127.0.0.1 - - [19/Jul/2022:09:20:16 +0530] "GET /web-customer-tracker/customer/delete?customerId=12 HTTP/1.1" 302 -
+127.0.0.1 - - [19/Jul/2022:09:20:16 +0530] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 3884

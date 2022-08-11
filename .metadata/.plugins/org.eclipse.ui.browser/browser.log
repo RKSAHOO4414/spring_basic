@@ -1,0 +1,4 @@
+
+Jul 13, 2022 18:01:49.41 NEW SESSION
+Jul 13, 2022 18:01:49.41 [Parent 14352, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+Jul 13, 2022 18:01:49.50 [Parent 14352, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
